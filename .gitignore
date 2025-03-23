@@ -1,3 +1,5 @@
+.gitignore
+.vs
 .*.swp
 .DS_Store
 *-private.*
